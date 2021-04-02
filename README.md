@@ -36,4 +36,4 @@ python Cbloom.py <in file> <outfile>
 https://gz.blockchair.com/
 
 или на моем ресурсе
-https://drive.google.com/drive/folders/1yKvE6YsAzQdk2gCzRWR8Zyn74Ai3_S0v?usp=sharing
+https://drive.google.com/drive/folders/18goTXQiM6MIYmK67ej5jwjRu5nfLCyxw?usp=sharing
